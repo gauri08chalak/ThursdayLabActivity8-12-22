@@ -56,6 +56,10 @@ public class userDefinedException {
 		userDefinedException e=new userDefinedException();
 		e.validation(age, weight);		
 	}
+	//public void validateName(String name) {
+		// TODO Auto-generated method stub
+		
+	//}
 }
 
 
